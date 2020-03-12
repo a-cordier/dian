@@ -1,6 +1,6 @@
 # DIAN
 
-Just having fun with Kubernetes deployed as an Ingress Contoller
+Just having fun with Kong deployed as a K8S Ingress Contoller
 
 ## Prerequisite
 
