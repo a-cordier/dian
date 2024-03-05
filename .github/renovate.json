@@ -1,0 +1,3 @@
+{
+    "extends": ["github>a-cordier/renovate-config:lib"]
+}
